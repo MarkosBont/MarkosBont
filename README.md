@@ -34,14 +34,13 @@ second SkillCorner internship. 10k+ installs on PyPI. `pip install skillcornervi
 ### What I work with
 
 Python, PyTorch, computer vision, RAG and LLM pipelines, Streamlit, Supabase,
-pandas. Mathematics through linear algebra, graphs, topology and real analysis, which turns out to
-matter more than expected.
+pandas. Mathematics through linear algebra, graphs, topology and real analysis.
 
 Outside of that: my main passion is football, both played and analysed.
 
 ### Contact
 
-Greek, based in Athens, moving to New York in August 2026.
+Greek, moving to New York in August 2026.
 
 - [LinkedIn](https://www.linkedin.com/in/markosbontozoglou/)
 - Email: markos.bont@gmail.com
