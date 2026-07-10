@@ -7,8 +7,7 @@ Honours with a Dean's Commendation.
 Previously twice at [SkillCorner](https://github.com/SkillCorner), where I
 worked on football tracking data.
 
-Currently looking for **Summer 2027 internships** in ML engineering, software
-engineering, and applied LLM work.
+Currently looking for **Summer 2027 internships** in ML and software engineering.
 
 ### Selected work
 
