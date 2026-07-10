@@ -44,5 +44,5 @@ Outside of that: my main passion is football, both played and analysed.
 
 Greek, based in Athens, moving to New York in August 2026.
 
-- LinkedIn: https://www.linkedin.com/in/markosbontozoglou/
+- [LinkedIn](https://www.linkedin.com/in/markosbontozoglou/)
 - Email: markos.bont@gmail.com
